@@ -1,6 +1,3 @@
-![issues_badge](https://img.shields.io/github/issues/777advait/Obito)    ![forks_badge](https://img.shields.io/github/forks/777advait/Obito)    ![stars_badge](https://img.shields.io/github/stars/777advait/Obito)    ![license_badge](https://img.shields.io/github/license/777advait/Obito)
-</br>
-
 ![logo](https://cdn.discordapp.com/attachments/983572908553150484/984755765388648458/logo.png)
 
 ### **[Obito](https://naruto.fandom.com/wiki/Obito_Uchiha)** is a URL file downloader which can download multiple files concurrently over internet.
