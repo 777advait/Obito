@@ -1,0 +1,4 @@
+env/*
+Obito/__pycache__/*
+Obito/test.py
+dist/*
